@@ -19,15 +19,13 @@ These instructions will guide you through setting up the project on your local m
 1. Connect to MongoDB or SQL through the terminal.
 
 2. Create a new database named `inventoryDB`:
-    ```sql
-    CREATE DATABASE inventoryDB;
-    ```
 
 3. Create a collection named `products` within `inventoryDB`:
 
-4. Insert at least 5 sample product documents into the `products` collection with the following fields: 
+4. Insert at least 5 sample product documents into the `products` collection with the following fields:
+   #### name(string)
 
-5. Insert at least 3 sample product records into the `products` table using SQL INSERT statements:
+6. Insert at least 3 sample product records into the `products` table using SQL INSERT statements:
 
 ### SQL Queries
 

@@ -28,9 +28,9 @@ These instructions will guide you through setting up the project on your local m
 
 ### SQL Queries
 
-#### Retrieve all products from the `products` table
-#### Retrieve products with a price less than a specified amount
-#### Retrieve products with more than a specified quantity in stock.
-#### Update the price of a specific product.
-#### Delete a product from the products table
+##### i) Retrieve all products from the `products` table
+##### ii)Retrieve products with a price less than a specified amount
+##### Retrieve products with more than a specified quantity in stock.
+##### Update the price of a specific product.
+##### Delete a product from the products table
 

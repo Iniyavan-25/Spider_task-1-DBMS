@@ -23,11 +23,14 @@ These instructions will guide you through setting up the project on your local m
 3. Create a collection named `products` within `inventoryDB`:
 
 4. Insert at least 5 sample product documents into the `products` collection with the following fields:
-   #### name(string)
-
+ 
 6. Insert at least 3 sample product records into the `products` table using SQL INSERT statements:
 
 ### SQL Queries
 
-#### Retrieve all products from the `products` table:
+#### Retrieve all products from the `products` table
+#### Retrieve products with a price less than a specified amount
+#### Retrieve products with more than a specified quantity in stock.
+#### Update the price of a specific product.
+#### Delete a product from the products table
 
